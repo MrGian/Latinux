@@ -1,5 +1,6 @@
-# latinux
-Latinux - l'app per il latino
+# Latinux
+L'app per il latino
 
-Per poter compilare l'app devi aggiungere il tuo file di configurazione Firebase, il tuo database e il tuo keystore
-In order to build the app you have to add your own Firebase configuration file, database and keystore
+Repository contenente il codice sorgente dell'app [Latinux](https://play.google.com/store/apps/details?id=app.latinux.android)
+
+Non comprende il database degli esercizi e il file di configurazione Firebase
