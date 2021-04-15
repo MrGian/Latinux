@@ -1,6 +1,9 @@
-# Latinux
+<p align="center"><img src="https://github.com/mrgian/latinux/raw/master/android/app/src/main/res/mipmap-xxxhdpi/icon_launcher.png" height=150></p>
+<h1 align="center">Latinux</h1>
+<h3 align="center">
 L'app per il latino
+</h3>
 
-Repository contenente il codice sorgente dell'app [Latinux](https://play.google.com/store/apps/details?id=app.latinux.android)
+Latinux **era** un'app che permetteva la consultazione di esercizi svolti di latino e di un dizionario latino-italiano.
 
-Non comprende il database degli esercizi e il file di configurazione Firebase
+L'app **non** è più disponibile per i nuovi utenti.
